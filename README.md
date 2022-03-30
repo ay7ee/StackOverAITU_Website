@@ -58,11 +58,11 @@ users’ knowledge. <br>
 9. Favourite questions
 The user can save their favourite questions and will be stored in their 
 profile page <br>
-![image](https://user-images.githubusercontent.com/102688997/160919879-c0144455-bb56-4b3c-b71f-76580fcfa5da.png)
+![image](https://user-images.githubusercontent.com/102688997/160919879-c0144455-bb56-4b3c-b71f-76580fcfa5da.png) <br>
 10.Avatar, password and deletion of account
 The user can change their avatar and password and delete their 
 accounts. <br>
-![image](https://user-images.githubusercontent.com/102688997/160919931-5da3056d-ae0c-4cbf-b504-500b7413834d.png)
+![image](https://user-images.githubusercontent.com/102688997/160919931-5da3056d-ae0c-4cbf-b504-500b7413834d.png) <br>
 11.Edit posts
 There is an opportunity for users to edit their posts in case there is a 
 problem with their posts.
