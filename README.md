@@ -77,7 +77,7 @@ students. It not only allows us to save our time from searching the solution
 across the internet but also can help others with the same problem. Therefore it 
 creates a chain of queues.
 ### REFERENCES
-— https://www.figma.com/
-— https://www.flaticon.com/
-— https://www.w3schools.com/
-— https://www.youtube.com
+- https://www.figma.com/
+- https://www.flaticon.com/
+- https://www.w3schools.com/
+- https://www.youtube.com
