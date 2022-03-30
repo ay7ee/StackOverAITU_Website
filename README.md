@@ -32,7 +32,7 @@ There users can get brief information about the website.
 Also, if the user is new here, he can sign up to the website. It helps to identify 
 each member of the AITU by their names or nicknames for the future aspects.
 ![image](https://user-images.githubusercontent.com/102688997/160919519-2e5666fd-284c-45cf-a204-e574b676f2d7.png)
-3. Private profile page
+3. Private profile page <br>
 ![image](https://user-images.githubusercontent.com/102688997/160919601-6a2c7324-ea22-4f8e-9b6f-0a3ef9c9e0fb.png)
 4. Creation of the post
 If user have difficulties with programming, you can create a post where you can
