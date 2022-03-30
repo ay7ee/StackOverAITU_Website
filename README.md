@@ -37,31 +37,31 @@ each member of the AITU by their names or nicknames for the future aspects. <br>
 4. Creation of the post
 If user have difficulties with programming, you can create a post where you can
 describe your problem by simply writing a text. After that, you just wait for 
-responses.
+responses. <br>
 ![image](https://user-images.githubusercontent.com/102688997/160919633-5c5a02cc-3f2c-469d-be2f-3b4cbda09fe9.png)
 5. Leaving a comment
 User can leave a comment for any post. It is helpful to get a response for 
-user’s problem or help to solve it.
+user’s problem or help to solve it. <br>
 ![image](https://user-images.githubusercontent.com/102688997/160919693-e53e33a6-0402-46b2-a854-28192d771ad8.png)
 6. The modern UI/UX design
 The modern and unique UI/UX design elements construct the whole 
 website. It is helpful to the users to interact with the website more 
-comfortably.
+comfortably. <br>
 7. Website has a cookie session
 The website has a cookie session. It means that every signed user will 
-be stored in the database of the website.
+be stored in the database of the website. <br>
 ![image](https://user-images.githubusercontent.com/102688997/160919770-137fddaa-84da-4cb2-9317-350fce9513fe.png)
 8. Exercises for programming languages
 There are exercises for 3 different programming languages to check 
-users’ knowledge.
+users’ knowledge. <br>
 ![image](https://user-images.githubusercontent.com/102688997/160919828-306ca3c9-340e-4a5b-bf41-94a5f6ebe7a3.png)
 9. Favourite questions
 The user can save their favourite questions and will be stored in their 
-profile page
+profile page <br>
 ![image](https://user-images.githubusercontent.com/102688997/160919879-c0144455-bb56-4b3c-b71f-76580fcfa5da.png)
 10.Avatar, password and deletion of account
 The user can change their avatar and password and delete their 
-accounts.
+accounts. <br>
 ![image](https://user-images.githubusercontent.com/102688997/160919931-5da3056d-ae0c-4cbf-b504-500b7413834d.png)
 11.Edit posts
 There is an opportunity for users to edit their posts in case there is a 
