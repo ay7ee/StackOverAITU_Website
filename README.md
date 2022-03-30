@@ -13,7 +13,9 @@ process and the most important is to reduce the number of retakers (the group of
 students who took a retake from courses)
 #### without adaptation to mobile phones
 #### Team members: designer, front-end, back-end. My position was front-end developer!
-
+### Requirenments
+- You should have xampp or other application for server.
+- You should create Database
 ### MAIN PART
 #### Methodology:
 During the construction of the website there was used all necessary 
