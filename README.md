@@ -12,7 +12,7 @@ goal of the project is to maximally help our students with their education
 process and the most important is to reduce the number of retakers (the group of 
 students who took a retake from courses)
 #### without adaptation to mobile phones
-#### Team members: designer, front-end, back-end. My position was front-end developer!
+#### Team members: designer, front-end, back-end. My position was front-end developer and web-designer!
 ### Requirenments
 - You should have xampp or other application for server.
 - You should create Database
